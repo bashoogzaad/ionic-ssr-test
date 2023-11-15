@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ssr-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
